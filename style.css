@@ -1,0 +1,25 @@
+h1{
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	font-size:80px;
+}
+.container{
+   margin:10%;
+   text-align:center;
+   color:green;
+}
+body{
+	background-color:black;
+}
+.dice{
+	display:inline-block;
+	padding:20px;
+	font-family:"Comic Sans MS";
+	font-size:50px;
+}
+footer{
+	color:white;
+	text-align:center;
+	font-family:"Comic Sans MS";
+	/*background-color:;*/
+}
